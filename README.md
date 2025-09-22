@@ -34,9 +34,8 @@ Aquí encontrarás los siguientes elementos clave del proyecto:
   - Próximos pasos del desarrollo
 
 ## 🔗 Enlaces Importantes
-- [Repositorio Trello](https://trello.com/b/Ft5zXeEf/check-list)  
-- [Prototipos en Figma](https://figma.com/)  
-- [Video de presentación](URL_DEL_VIDEO)
+- [Repositorio Trello](https://trello.com/b/6O8uYolQ/mi-tablero-de-trello)  
+- [Prototipos en Figma](https://www.figma.com/design/pGthT1iEdAhvrLcoZn89t8/Book-Inn-App?node-id=0-1&t=oyajFh9mbjJc7H4j-0)  
 
 ## 👥 Equipo de Trabajo
 - Romina Torres  
